@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Alice Smith",
+    "experience_years": 10,
+    "total_recipe": 50,
+    "likes": 10000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Alice is a classically trained chef who has worked in some of the finest restaurants in Europe. She specializes in French cuisine and is known for her exquisite pastry-making skills."
+  },
+  {
+    "id": 2,
+    "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Bob Johnson",
+    "experience_years": 5,
+    "total_recipe": 30,
+    "likes": 5000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Bob is a self-taught chef who has gained a following on social media for his creative fusion dishes. He loves experimenting with different flavors and textures to create dishes that are both delicious and visually stunning."
+  },
+  {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
+    "name": "Charlie Brown",
+    "experience_years": 7,
+    "total_recipe": 40,
+    "likes": 8000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Charlie is a vegetarian chef who specializes in creating plant-based dishes that are both healthy and delicious. She loves experimenting with different vegetables and spices to create unique flavor profiles."
+  },
+  {
+    "id": 4,
+    "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "David Lee",
+    "experience_years": 12,
+    "total_recipe": 60,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "David is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  },
+  {
+    "id": 5,
+    "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Emily Davis",
+    "experience_years": 8,
+    "total_recipe": 35,
+    "likes": 7000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Emily is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  },
+  {
+    "id": 6,
+    "picture": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Frank Jackson",
+    "experience_years": 3,
+    "total_recipe": 20,
+    "likes": 3000,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1/4 teaspoon red pepper flakes",
+          "1 pound spaghetti pasta"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Frank is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  }
+]
