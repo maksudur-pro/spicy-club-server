@@ -1,124 +1,94 @@
 [
   {
     "id": 1,
-    "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "picture": "https://www.hitsa.com.au/wp-content/uploads/types-of-chefs.jpg",
     "name": "Alice Smith",
     "experience_years": 10,
     "total_recipe": 50,
     "likes": 10000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "Alice is a classically trained chef who has worked in some of the finest restaurants in Europe. She specializes in French cuisine and is known for her exquisite pastry-making skills."
   },
   {
     "id": 2,
-    "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "picture": "https://www.liyenkl.com/resourcefiles/offer-page-snippet-images/chinese-chef-alex-the-ritz-carlton-li-yen-kuala-lumpur.jpg",
     "name": "Bob Johnson",
     "experience_years": 5,
     "total_recipe": 30,
     "likes": 5000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "Bob is a self-taught chef who has gained a following on social media for his creative fusion dishes. He loves experimenting with different flavors and textures to create dishes that are both delicious and visually stunning."
@@ -132,117 +102,87 @@
     "likes": 8000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "Charlie is a vegetarian chef who specializes in creating plant-based dishes that are both healthy and delicious. She loves experimenting with different vegetables and spices to create unique flavor profiles."
   },
   {
     "id": 4,
-    "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "picture": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387",
     "name": "David Lee",
     "experience_years": 12,
     "total_recipe": 60,
     "likes": 12000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "David is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
@@ -256,117 +196,87 @@
     "likes": 7000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "Emily is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
   },
   {
     "id": 6,
-    "picture": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "picture": "https://www.manhomanila.com/resourcefiles/meet-the-chef-image/chan-chi-fai.jpg",
     "name": "Frank Jackson",
     "experience_years": 3,
     "total_recipe": 20,
     "likes": 3000,
     "recipes": [
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
+        "recipe_name": "Kung Pao Chicken",
+        "category_id": 1,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "chicken",
+          "peanuts",
+          "chili peppers",
+          "soy sauce",
+          "rice vinegar"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
+        "cooking_method": "Stir-fry chicken with peanuts, chili peppers, soy sauce, and rice vinegar until the chicken is cooked through and the sauce is thick and sticky.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
-        "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
-        ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "img": "https://i0.wp.com/seonkyounglongest.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2.jpg?fit=1300%2C867&ssl=1",
+        "recipe_name": "Egg Fried Rice",
+        "category_id": 2,
+        "ingredients": ["rice", "eggs", "vegetables", "soy sauce", "oil"],
+        "cooking_method": "Cook rice and scramble eggs in a wok, add vegetables, soy sauce, and oil, and stir-fry until everything is heated through and well combined.",
+        "rating": 4.2
       },
       {
-        "recipe_name": "Spaghetti Bolognese",
+        "img": "https://i0.wp.com/chejorge.com/wp-content/uploads/2020/07/IMG_6073.jpg?resize=930%2C620&ssl=1",
+        "recipe_name": "Dumplings",
+        "category_id": 3,
         "ingredients": [
-          "1 pound ground beef",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 can (28 oz) crushed tomatoes",
-          "1/2 teaspoon salt",
-          "1/4 teaspoon black pepper",
-          "1 teaspoon dried oregano",
-          "1 teaspoon dried basil",
-          "1/4 teaspoon red pepper flakes",
-          "1 pound spaghetti pasta"
+          "ground pork",
+          "cabbage",
+          "green onions",
+          "soy sauce",
+          "sesame oil"
         ],
-        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.\n4. Add the cooked ground beef back to the skillet and stir to combine. Reduce the heat to low and let the sauce simmer for 20-30 minutes, stirring occasionally.\n5. While the sauce is simmering, cook the spaghetti pasta according to the package directions. Drain the pasta.\n6. Serve the spaghetti with the Bolognese sauce on top. Enjoy!",
-        "rating": 4.5
+        "cooking_method": "Mix ground pork, cabbage, green onions, soy sauce, and sesame oil, wrap the mixture in dumpling wrappers, and steam or fry until cooked through.",
+        "rating": 4.4
       }
     ],
     "bio": "Frank is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
